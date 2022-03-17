@@ -1,0 +1,62 @@
+{
+    "1": {
+        "id": 1,
+        "title": "When in Rome",
+        "description": "While on a trip with his family, a writer finds himself mysteriously travelling back in time",
+        "genre": "Thriller"
+    },
+    "2": {
+        "id": 2,
+        "title": "When in Rome",
+        "description": "The story of a woman who must return home in order to divorce her husband",
+        "genre": "Comedy"
+    },
+    "3": {
+        "id": 3,
+        "title": "Gangs of Vegas",
+        "description": "Two friends try to achieve fame in 1969",
+        "genre": "Horror"
+    },
+    "4": {
+        "id": 4,
+        "title": "The Wizard of Oz",
+        "description": "While on a trip with his family, a writer finds himself mysteriously travelling back in time",
+        "genre": "Romance"
+    },
+    "5": {
+        "id": 5,
+        "title": "Sweet Home New York",
+        "description": "While on a trip with his family, a writer finds himself mysteriously travelling back in time",
+        "genre": "Horror"
+    },
+    "6": {
+        "id": 6,
+        "title": "Sleepless in Rome",
+        "description": "A story of revenge where a son avenges his father's death",
+        "genre": "Adventure"
+    },
+    "7": {
+        "id": 7,
+        "title": "When in Vegas",
+        "description": "A young boy becomes part of a gang",
+        "genre": "Sci-Fi"
+    },
+    "8": {
+        "id": 8,
+        "title": "This is England",
+        "description": "The story of a woman who must return home in order to divorce her husband",
+        "genre": "Romance"
+    },
+    "9": {
+        "id": 9,
+        "title": "Midnight in Paris",
+        "description": "The story of a woman who must return home in order to divorce her husband",
+        "genre": "Thriller"
+    },
+    "10": {
+        "id": 10,
+        "title": "Midnight in Vegas",
+        "description": "A man and a woman must live together as a couple in order to not lose a large amount of money",
+        "genre": "Biography"
+    }
+}
